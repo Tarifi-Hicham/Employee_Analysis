@@ -1,10 +1,4 @@
-# Employee_Analysis
-
-Based on the provided Jupyter notebook, here's a README file that explains the purpose of the script, how to set it up, and how to run it.
-
----
-
-# Call Center Data Analysis
+# Employee Analysis
 
 ## Overview
 
